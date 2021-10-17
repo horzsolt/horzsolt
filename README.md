@@ -20,17 +20,14 @@
 
 
 
+- Github stats
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=horzsolt&show_icons=true&count_private=true&hide_border=true)](https://github.com/horzsolt)
 
-<a href="https://github.com/horzsolt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=horzsolt&show_icons=true&count_private=true&hide_border=true" />
-</a>  
+- Top languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horzsolt&show_icons=true&count_private=true&hide_border=true)](https://github.com/horzsolt)
 
-<a href="https://github.com/horzsolt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=horzsolt&hide_border=true" />
-</a>  
+- Wakatime card
+[!Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=horzsolt)](https://github.com/horzsolt
 
-<a href="https://github.com/horzsolt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=horzsolt" />
-</a>  
 
 
