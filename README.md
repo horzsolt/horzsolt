@@ -8,6 +8,7 @@
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCTbham0DsCPhpsC0dPymikA)
 
 <br/>
+---
 ### Languages and Tools:
 
 <img align="left" alt=" " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
