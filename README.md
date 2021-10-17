@@ -11,13 +11,13 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt=" " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />][webdevplaylist]
-[<img align="left" alt=" " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][https://github.com/horzsolt]
-[<img align="left" alt=" " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][https://github.com/horzsolt]
-[<img align="left" alt=" " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/abletonlive.svg" />][https://github.com/horzsolt]
-[<img align="left" alt=" " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />][https://github.com/horzsolt]
-[<img align="left" alt=" " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][https://github.com/horzsolt]
-[<img align="left" alt=" " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />][https://github.com/horzsolt]
+[<img align="left" alt=" " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />](https://github.com/horzsolt)
+[<img align="left" alt=" " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />](https://github.com/horzsolt)
+[<img align="left" alt=" " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/horzsolt)
+[<img align="left" alt=" " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/abletonlive.svg" />](https://github.com/horzsolt)
+[<img align="left" alt=" " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />](https://github.com/horzsolt)
+[<img align="left" alt=" " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />](https://github.com/horzsolt)
+[<img align="left" alt=" " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />](https://github.com/horzsolt)
 
 <br />
 <br />
@@ -25,7 +25,9 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=horzsolt&show_icons=true&count_private=true&hide_border=true)](https://github.com/horzsolt)
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horzsolt&show_icons=true&count_private=true&hide_border=true)](https://github.com/horzsolt)
+<br />
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=horzsolt)](https://github.com/horzsolt)
 
 
