@@ -9,6 +9,7 @@
 
 <br/>
 ---
+
 ### Languages and Tools:
 
 <img align="left" alt=" " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
@@ -25,9 +26,17 @@
 <a href="https://github.com/horzsolt">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=horzsolt&show_icons=true&count_private=true&hide_border=true" />
 </a>
+
+<br/>
+---
+
 <a href="https://github.com/horzsolt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=horzsolt&hide_border=true" />
 </a>
+
+<br/>
+---
+
 <a href="https://github.com/horzsolt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=horzsolt" />
 </a>
