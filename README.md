@@ -25,15 +25,11 @@
 
 <a href="https://github.com/horzsolt">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=horzsolt&show_icons=true&count_private=true&hide_border=true" />
-</a>
-
----
+</a>  
 
 <a href="https://github.com/horzsolt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=horzsolt&hide_border=true" />
-</a>
-
----
+</a>  
 
 <a href="https://github.com/horzsolt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=horzsolt" />
