@@ -9,7 +9,7 @@
   
   
 ### Languages and Tools:
-
+```html
 <img align="left" alt=" " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
 <img align="left" alt=" " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
 <img align="left" alt=" " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -17,7 +17,7 @@
 <img align="left" alt=" " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
 <img align="left" alt=" " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 <img align="left" alt=" " width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />  
-
+```
 
 
 - Github stats
@@ -27,7 +27,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horzsolt&show_icons=true&count_private=true&hide_border=true)](https://github.com/horzsolt)
 
 - Wakatime card
-[!Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=horzsolt)](https://github.com/horzsolt
+[!Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=horzsolt)](https://github.com/horzsolt)
 
 
 
