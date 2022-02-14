@@ -1,4 +1,4 @@
-### Hi there, I'm Zsolt, an Engineering Manager at Cloudera :wave:
+### Hi there, I'm Zsolt, an Engineering Manager at Timescale :wave:
 
 - :brain: I’m currently working on an Ableton project viewer for VSCode
 - :heavy_check_mark: 2022 Goal: Release my first VSCode extension
