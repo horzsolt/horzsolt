@@ -15,4 +15,4 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
-      - run: echo "lscpu | egrep 'Model name|Socket|Thread|NUMA|CPU\(s\)'"
+      - run: lscpu | egrep 'Model name|Socket|Thread|NUMA|CPU\(s\)'
