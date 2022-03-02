@@ -16,3 +16,5 @@ jobs:
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
       - run: echo "lscpu | egrep 'Model name|Socket|Thread|NUMA|CPU\(s\)'"
+      - run: echo "sudo apt-get install qemu binfmt-support qemu-user-static"
+      - run: sudo apt-get install qemu binfmt-support qemu-user-static
