@@ -1,9 +1,0 @@
-name: GitHub issue repro
-on: [push]
-jobs:
-  Explore-GitHub-Actions:
-    runs-on: ubuntu-18.04
-    steps:
-      - run: echo "sudo apt-get install qemu binfmt-support qemu-user-static"
-      - run: sudo apt-get update
-      - run: sudo apt-get install qemu binfmt-support qemu-user-static
