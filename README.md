@@ -1,4 +1,4 @@
-### Hi there, I'm Zsolt, an Engineering Manager at Timescale :wave:
+### Hi there, I'm Zsolt, an Engineering Manager :wave:
 
 - :brain: 
 
