@@ -29,8 +29,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=horzsolt&show_icons=true&count_private=true&hide_border=true&theme=dark)](https://github.com/horzsolt)
-<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horzsolt&show_icons=true&count_private=true&hide_border=true&theme=dark)](https://github.com/horzsolt)
 <br />
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=horzsolt&theme=dark)](https://github.com/horzsolt)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=horzsolt&show_icons=true&count_private=true&hide_border=true&theme=dark)](https://github.com/horzsolt)
