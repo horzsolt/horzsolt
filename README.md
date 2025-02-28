@@ -1,6 +1,12 @@
 ### Hi there, I'm Zsolt, an Engineering Manager :wave:
 
-- :brain: 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/horzsolt/horzsolt/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/horzsolt/horzsolt/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/horzsolt/horzsolt/output/github-snake.svg" />
+</picture>
+
 
 ### About me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/horzsolt)
@@ -28,10 +34,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horzsolt&show_icons=true&count_private=true&hide_border=true&theme=dark)](https://github.com/horzsolt)
 <br />
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=horzsolt&theme=dark)](https://github.com/horzsolt)
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/horzsolt/horzsolt/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/horzsolt/horzsolt/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/horzsolt/horzsolt/output/github-snake.svg" />
-</picture>
