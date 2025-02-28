@@ -30,4 +30,8 @@
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=horzsolt&theme=dark)](https://github.com/horzsolt)
 
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/horzsolt/horzsolt/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/horzsolt/horzsolt/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/horzsolt/horzsolt/output/github-snake.svg" />
+</picture>
